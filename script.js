@@ -25,6 +25,6 @@ window.addEventListener("DOMContentLoaded", () => {
 
   function handleResultValidation() {
     let roundWon = false;
-    for (let i =0; i <=7)
+    for (let i = 0; i <= 7; i++) {}
   }
 });
